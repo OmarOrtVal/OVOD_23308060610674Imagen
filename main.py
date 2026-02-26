@@ -7,7 +7,7 @@ def main(page:ft.Page):
     page.add(ft.Text(
         value="Hola Mundo",
         size=24,
-        color=ft.Colors.BLUE,
+        color=ft.Colors.BLACK,
         weight=ft.FontWeight.BOLD,
         italic=False,
         text_align=ft.TextAlign.CENTER,
